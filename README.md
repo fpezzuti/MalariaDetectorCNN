@@ -10,8 +10,8 @@ All the code has been developed for the _Computational Intelligence and Deep Lea
 - [Pietro Tempesti](https://github.com/PieTempesti98)
 
 The **report** that describes the project in detail, and the **slides** are available here:
-- [project report](./report.pdf)
-- [presentation slides](./slides.pdf)
+- [report](./report.pdf)
+- [slides](./slides.pdf)
 
 All the **code** is stored in the [Jupyter notebooks directory](./jupyter_notebooks/).
 
