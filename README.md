@@ -51,3 +51,5 @@ image the network is attending to for classification.
 We used _CAM visualization_ in order to identify possible classification patterns exploitable by medical experts to better assess their diagnoses.
 
 ![Explainable AI](https://github.com/fpezzuti/MalariaDetector/assets/75533556/b8dd45f0-13b8-4560-9b75-74b9106c8bdb)
+
+For more details, refer to the Jupyter notebook about CAM visualization available [here](./jupyter_notebooks/CAM_visualization.ipynb).
