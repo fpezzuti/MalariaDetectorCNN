@@ -1,0 +1,6 @@
+@software{pezzuti_malariadetector_2022,
+  author = "Pezzuti, Francesca",
+  title = "Malaria Detector CNN",
+  url = "https://github.com/fpezzuti/MalariaDetectorCNN",
+  year = "2022",
+}
